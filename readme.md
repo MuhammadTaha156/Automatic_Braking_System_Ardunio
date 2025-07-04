@@ -1,4 +1,4 @@
-# 🐕 Smart Stop System (Automatic Barking System)
+# 🐦‍🔥🐦‍🔥 Smart Stop System (Automatic Barking System)
 
 🚀 **Project Overview**
 
@@ -34,7 +34,7 @@ This intelligent control over the deterrent mechanism represents the project's c
 🚀 **Setup & Usage**
 
 1. **Hardware Assembly**
-   - Connect all components accurately following the detailed circuit diagram provided in the project documentation. Pay close attention to the wiring of the motion sensor, Arduino, and sound module.
+   - Connect components as per the circuit diagram.
 
 2. **Software (Arduino IDE)**
    - **Download Arduino IDE:** If you don't have it installed, get the latest version from [Arduino.cc](https://www.arduino.cc/en/software).
@@ -42,7 +42,7 @@ This intelligent control over the deterrent mechanism represents the project's c
    - **Flash Firmware:** Click the "Upload" button to compile and flash the code onto your Arduino board.
 
 3. **Operation**
-   - Once powered on, the system will continuously monitor for movement. Upon detecting an animal presence (as defined by its internal intelligent logic), it will activate the barking sound for a set duration, followed by a brief cooldown period to maintain efficiency.
+   - System detects movement and activates the sound module..
 
 💡 **Future Work**
 
