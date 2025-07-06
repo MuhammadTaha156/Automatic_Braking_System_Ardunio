@@ -128,3 +128,7 @@ For questions or contributions, please open an issue on GitHub.
 
 Have questions about this project, or are you working on your own exciting Arduino endeavors? Feel free to connect or DM me on LinkedIn! 
 I'm always happy to discuss embedded systems, IoT, and innovative tech solutions.
+
+Name - [Muhammad Taha](https://twitter.com/yourtwitter) - toaha155@gmail.com
+
+Linkedin: [https://www.linkedin.com/in/muhammad-taha101/](https://www.linkedin.com/in/muhammad-taha101/)
